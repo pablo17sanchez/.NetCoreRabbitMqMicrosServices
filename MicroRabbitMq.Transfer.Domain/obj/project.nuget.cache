@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2/oxMfQDqLkoPoB5KTF1Dd55TzikyA4Xx2MWYTi0Lwn2wH3qPyLCR0P75Xc7CZUlZuHy4N0v0XrpY7opmS5Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Transfer.Domain\\MicroRabbitMq.Transfer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

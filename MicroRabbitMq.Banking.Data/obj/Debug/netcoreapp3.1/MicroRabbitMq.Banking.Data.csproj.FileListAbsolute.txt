@@ -1,0 +1,17 @@
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.deps.json
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.runtimeconfig.json
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.AssemblyInfo.cs
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.csproj.CopyComplete
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.genruntimeconfig.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Data.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.pdb

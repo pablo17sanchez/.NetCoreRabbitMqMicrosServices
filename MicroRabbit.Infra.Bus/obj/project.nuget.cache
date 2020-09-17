@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kYniJ8XUlWN8qPElhN1QfdLSDDSySDCgBQqsjzCR5GWLXW9t1UJa5chyvEm2yNCWgmkGxBZj7NQ8AwVwpEVZIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.8.20407.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

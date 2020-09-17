@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MediatR/8.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        }
+      },
+      "MicroRabbitMq.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbitMq.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbitMq.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbitMq.Banking.Domain.dll": {}
+        }
+      },
+      "MicroRabbitMq.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "8.1.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbitMq.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbitMq.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediatR/8.1.0": {
+      "sha512": "KJFnA0MV83bNOhvYbjIX1iDykhwFXoQu0KV7E1SVbNA/CmO2I7SAm2Baly0eS7VJ2GwlmStLajBfeiNgTpvYzQ==",
+      "type": "package",
+      "path": "mediatr/8.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.8.1.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MicroRabbitMq.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbitMq.Banking.Domain/MicroRabbitMq.Banking.Domain.csproj",
+      "msbuildProject": "../MicroRabbitMq.Banking.Domain/MicroRabbitMq.Banking.Domain.csproj"
+    },
+    "MicroRabbitMq.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbitMq.Domain.Core/MicroRabbitMq.Domain.Core.csproj",
+      "msbuildProject": "../MicroRabbitMq.Domain.Core/MicroRabbitMq.Domain.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MicroRabbitMq.Banking.Domain >= 1.0.0",
+      "MicroRabbitMq.Domain.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pablo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Transfer.Domain\\MicroRabbitMq.Transfer.Domain.csproj",
+      "projectName": "MicroRabbitMq.Transfer.Domain",
+      "projectPath": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Transfer.Domain\\MicroRabbitMq.Transfer.Domain.csproj",
+      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Transfer.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Banking.Domain\\MicroRabbitMq.Banking.Domain.csproj": {
+              "projectPath": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Banking.Domain\\MicroRabbitMq.Banking.Domain.csproj"
+            },
+            "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Domain.Core\\MicroRabbitMq.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Domain.Core\\MicroRabbitMq.Domain.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

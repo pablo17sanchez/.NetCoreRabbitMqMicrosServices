@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G91hvwmlxWhXOlqg0Qz/gnbJyrW6uPTqO8rFKzToqIWD2/2ANC1Bfu/ZyN5bfw5EAL2miQmUUACofK6UbQR3Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\MicroRabbitMq\\MicroRabbitMq.Banking.Domain\\MicroRabbitMq.Banking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

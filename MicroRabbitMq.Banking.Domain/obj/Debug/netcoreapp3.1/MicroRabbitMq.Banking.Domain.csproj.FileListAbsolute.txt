@@ -1,0 +1,12 @@
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.deps.json
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.AssemblyInfo.cs
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.csproj.CopyComplete

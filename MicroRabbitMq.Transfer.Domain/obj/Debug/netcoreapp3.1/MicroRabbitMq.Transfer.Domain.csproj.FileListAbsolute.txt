@@ -1,0 +1,14 @@
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.deps.json
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.AssemblyInfo.cs
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Banking.Domain.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbitMq.Transfer.Domain.csproj.CopyComplete

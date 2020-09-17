@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MicroRabbitMq.Transfer.Aplication/1.0.0": {
+        "dependencies": {
+          "MicroRabbitMq.Transfer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbitMq.Transfer.Aplication.dll": {}
+        }
+      },
+      "MediatR/8.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.1.0.0"
+          }
+        }
+      },
+      "MicroRabbitMq.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbitMq.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbitMq.Banking.Domain.dll": {}
+        }
+      },
+      "MicroRabbitMq.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.1.0"
+        },
+        "runtime": {
+          "MicroRabbitMq.Domain.Core.dll": {}
+        }
+      },
+      "MicroRabbitMq.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbitMq.Banking.Domain": "1.0.0",
+          "MicroRabbitMq.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbitMq.Transfer.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroRabbitMq.Transfer.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KJFnA0MV83bNOhvYbjIX1iDykhwFXoQu0KV7E1SVbNA/CmO2I7SAm2Baly0eS7VJ2GwlmStLajBfeiNgTpvYzQ==",
+      "path": "mediatr/8.1.0",
+      "hashPath": "mediatr.8.1.0.nupkg.sha512"
+    },
+    "MicroRabbitMq.Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbitMq.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbitMq.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.deps.json
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.pdb
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.AssemblyInfo.cs
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.dll
+C:\Users\pablo\source\repos\MicroRabbitMq\MicroRabbitMq.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbitMq.Domain.Core.pdb
